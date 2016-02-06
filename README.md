@@ -13,3 +13,9 @@ For use with the following
  __Windows 8/8.1 Users:__
   
   - __OblyTile__: http://forum.xda-developers.com/showthread.php?t=1899865
+  - 
+  __How to use__
+
+To download the icons just click the Download ZIP button
+
+*Simple*
